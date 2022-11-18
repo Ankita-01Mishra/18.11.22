@@ -163,3 +163,6 @@ button{
     from{left: 0px;}
     to{left: 300px;}
 }
+.second-box{
+    background: linear-gradient(to bottom,skyblue,pink,skyblue);
+}
