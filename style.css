@@ -161,8 +161,8 @@ button{
 }
 @keyframes example {
     from{left: 0px;}
-    to{left: 300px;}
+    to{left: 400px;}
 }
 .second-box{
-    background: linear-gradient(to bottom,skyblue,pink,skyblue);
+    background-image: linear-gradient(to bottom,skyblue,pink,skyblue);
 }
